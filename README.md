@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+An Enemy that walks left forever, and Enemy that bounces forever, and an Enemy that waits for the player to get close before charging at it.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Whatever Nathan says ;3.
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality.
